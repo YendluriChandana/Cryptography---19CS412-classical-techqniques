@@ -387,9 +387,8 @@ int main() {
 ## RESULT:
 The program Hill Cipher is executed successfully
 
-## Vigenere Cipher
+# Vigenere Cipher
 Vigenere Cipher using with different key values
-
 ## AIM:
 To develop a simple C program to implement Vigenere Cipher.
 
@@ -483,7 +482,8 @@ void decipher() {
 ```
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/4a63616f-3ad7-4968-aa09-3020948c2825)
+![Screenshot 2024-11-11 085618](https://github.com/user-attachments/assets/c05c2620-9c6c-4d49-b7b8-16ec68dcdc57)
+
 ## RESULT:
 The program Vigenere Cipher is executed successfully
 
@@ -613,7 +613,7 @@ int main() {
 ```
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/8d10054a-e835-47fb-b290-ea460a2e7a68)
+![image](https://github.com/user-attachments/assets/3334f2c3-4402-4ea5-8dff-efab954d44c6)
 
 ## RESULT:
 The program Rail Fence Cipher is executed successfully
